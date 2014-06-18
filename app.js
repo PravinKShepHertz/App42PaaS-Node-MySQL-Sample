@@ -30,11 +30,11 @@ if ('development' == app.get('env')) {
 
 // Application initialization
 var connection = mysql.createConnection({
-  host     : 'localhost',
-  port     : '',
-  user     : 'root',
-  password : '',
-  database : "ntest"
+  host     : '54.208.130.57',
+  port     : '53653',
+  user     : 'aqfjgj73vsnmddoi',
+  password : 'acavceal34mvrqy3bry17bsain3gkw16',
+  database : "demo_db"
 });
 
 // Database setup
